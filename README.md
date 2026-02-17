@@ -1,5 +1,7 @@
 # Description
 
+![Logo](https://github.com/github/copilot-sdk/blob/main/assets/RepoHeader_01.png)
+
 This is a technical demo presenting the structure, workflow, and features
 of [**GitHub Copilot SDK**](https://github.com/github/copilot-sdk) such as:
 
